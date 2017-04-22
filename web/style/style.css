@@ -1,0 +1,38 @@
+body {
+    background-color: #55ACEE;
+}
+
+.formposition {
+    position: absolute;
+    top: 230px;
+    left: 500px;
+    width: 150px;
+    height: 200px;
+}
+
+.messageposition {
+    position: absolute;
+    top:170px;
+    left: 850px;
+    width: 280px;
+    height: 380px;
+    overflow: scroll;
+
+}
+.submit {
+    border-radius: 12px;
+    background-color: #008CBA;
+    color: white;
+    font-size: 16px;
+
+}
+
+.optimized {
+    position:absolute;
+    left: 40%;
+    top: 700px;
+    font-size: 24px;
+    color: black;
+    font-weight: italic;
+
+}
